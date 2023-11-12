@@ -2,33 +2,33 @@
 
 	{
 		"name": "Seven Gods",
-		"type": "Pantheon"
+		"type": "Religion"
 		"uniques": ["[+1 Faith] from every [Desert]"],
 	},
 	{
 		"name": "Old Gods",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"],
+		"type": "Religion"
+		"uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"], ["[+1 Food] from every [Snow]"]
 	},
 	{
 		"name": "Fire Lord",
-		"type": "Pantheon"
-		"uniques": ["[+1 Production] from every [Fishing Boats]"],
+		"type": "Religion"
+		"uniques": ["[+1 Faith] from every [Silver]"],["[+1 Production] from every [mine] "]
 	},
 	{
 		"name": "Loras",
 		"type": "Pantheon"
-		"uniques": ["[+1 Food] from every [Camp]"],
+		"uniques": ["[+1 Food] from every [Sea]"],["[+1 Gold][+1 Culture] from every [Oasis]"]
 	},
 	{
 		"name": "Sea God",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture] from every [Plantation]"],
+		"type": "Religion"
+		"uniques": ["[+1 Culture][+1 Gold][+1 Food] from every [Fishing Boats]"],
 	},
 	{
 		"name": "Haru - God of the sun",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture] from every [Jungle]"],
+		"type": "Religion"
+		"uniques": ["[+1 Food][+1 Culture] from every [Desert]"],["[+1 Production] from every [mine]"],
 	}
 	
 ]
