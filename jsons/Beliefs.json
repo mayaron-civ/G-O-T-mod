@@ -1,43 +1,34 @@
 [
 
 	{
-		"name": "Desert Folklore",
+		"name": "Seven Gods",
 		"type": "Pantheon"
 		"uniques": ["[+1 Faith] from every [Desert]"],
 	},
 	{
-		"name": "Goddess of Festivals",
+		"name": "Old Gods",
 		"type": "Pantheon"
 		"uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"],
 	},
 	{
-		"name": "God of the Sea",
+		"name": "Fire Lord",
 		"type": "Pantheon"
 		"uniques": ["[+1 Production] from every [Fishing Boats]"],
 	},
 	{
-		"name": "Goddess of the Hunt",
+		"name": "Loras",
 		"type": "Pantheon"
 		"uniques": ["[+1 Food] from every [Camp]"],
 	},
 	{
-		"name": "Oral Tradition",
+		"name": "Sea God",
 		"type": "Pantheon"
 		"uniques": ["[+1 Culture] from every [Plantation]"],
 	},
 	{
-		"name": "Sacred Path",
+		"name": "Haru - God of the sun",
 		"type": "Pantheon"
 		"uniques": ["[+1 Culture] from every [Jungle]"],
-	},
-	{
-		"name": "Stone Circles",
-		"type": "Pantheon"
-		"uniques": ["[+2 Faith] from every [Quarry]"],
-	},
-	{
-		"name": "Religious Idols",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture, +1 Faith] from every [Gold]", "[+1 Culture, +1 Faith] from every [Silver]"],
 	}
+	
 ]
